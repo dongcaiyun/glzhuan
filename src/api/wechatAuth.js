@@ -10,6 +10,7 @@ import request from '../utils/request'
  *          userInfo:{}
  * 测试下
  *       }
+ * hello
  */
 export function loginByCode (data) {
   return request({
